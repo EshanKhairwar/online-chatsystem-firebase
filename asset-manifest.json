@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/online-chatsystem-firebase/static/css/main.cace19d2.css",
+    "main.js": "/online-chatsystem-firebase/static/js/main.c761f081.js",
+    "index.html": "/online-chatsystem-firebase/index.html",
+    "main.cace19d2.css.map": "/online-chatsystem-firebase/static/css/main.cace19d2.css.map",
+    "main.c761f081.js.map": "/online-chatsystem-firebase/static/js/main.c761f081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cace19d2.css",
+    "static/js/main.c761f081.js"
+  ]
+}
